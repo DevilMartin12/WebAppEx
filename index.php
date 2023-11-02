@@ -5,11 +5,5 @@
     </head>
     <body>
         Здравей :)
-        <?php
-            $target = "contacts.php";
-            $linkname = "mylink";
-
-            link($target, $linkname);
-        ?>
     </body>
 </html>
