@@ -8,9 +8,4 @@
         HOMO
     </body>
 </html>
-    <?php
-        $target = "text.txt";
-        $linkname = "mylink";
-
-        link($target, $linkname);
-        ?>
+    
