@@ -5,6 +5,7 @@
     </head>
     <body>
         Здравей :)
+        friend
     </body>
 </html>
     
