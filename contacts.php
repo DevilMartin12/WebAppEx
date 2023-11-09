@@ -5,7 +5,7 @@
     </head>
     <body>
         Здравей :)
-        HOMO
+      
     </body>
 </html>
     
